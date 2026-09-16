@@ -241,4 +241,4 @@ This repository serves as the official landing page for iSpy. The software is di
 **Get the most recent version of iSpy today!**
 
 ---
-**Last updated:** 2026-09-16 17:57:24 UTC
+**Last updated:** 2026-09-16 21:04:22 UTC
